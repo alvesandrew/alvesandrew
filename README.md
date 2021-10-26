@@ -8,10 +8,12 @@
 
 <br/>
 
-###If you are interested, these are some articles written by me:
+### If you are interested, these are some articles written by me:
 
 <a href="https://medium.com/@andrew.castro/desmistificando-o-kingfisher-3a3158eb8dcf"> Desmistificando o Kingfisher </a>
+<br/>
 <a href="https://medium.com/@andrew.castro/entendendo-o-ciclo-de-vida-app-e-view-6e56a82579b9"> Entendendo o ciclo de vida - App e ViewController </a>
+<br/>
 <a href="https://medium.com/@andrew.castro/parsing-json-com-codable-e-alamofire-ad68899100ab"> Parsing JSON com codable e alamofire</a>
 
 <br/>
