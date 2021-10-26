@@ -16,7 +16,6 @@
 <br/>
 <a href="https://medium.com/@andrew.castro/parsing-json-com-codable-e-alamofire-ad68899100ab"> Parsing JSON com codable e alamofire</a>
 
-<br/>
 
 #### My Profiles:
 
