@@ -5,6 +5,10 @@
 - 💞️ I hope to meet many people and have incredible experiences in wonderful places.
 - 📫 If you want to talk to me, send me a DM on Twitter.
 
+
+<br/>
+
+
 <a href="https://www.linkedin.com/in/andrew-castro-17596b144/">
   <img align="left" alt="Andrew's Linkedin" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
