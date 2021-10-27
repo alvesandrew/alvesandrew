@@ -32,6 +32,3 @@
 <a href="https://twitter.com/swiftdreww">
   <img align="left" alt="Andrew's Twitter" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCF6Y0zQGtzzPezcMmJXUQTA?view_as=subscriber">
-  <img align="left" alt="JPedro's Youtube" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
