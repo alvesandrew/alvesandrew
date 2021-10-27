@@ -15,6 +15,10 @@
 <a href="https://medium.com/@andrew.castro/entendendo-o-ciclo-de-vida-app-e-view-6e56a82579b9"> Entendendo o ciclo de vida - App e ViewController </a>
 <br/>
 <a href="https://medium.com/@andrew.castro/parsing-json-com-codable-e-alamofire-ad68899100ab"> Parsing JSON com codable e alamofire</a>
+<br/>
+<a href="https://medium.com/@andrew.castro/swiftui-apples-new-tool-for-building-app-interfaces-8c5fc10b3e2b"> SwiftUI - Apple's new tool for building app interfaces</a>
+<br/>
+<a href="https://medium.com/@andrew.castro/struct-vs-class-swift-368c5d85cbed"> Struct vs Class - Swift</a>
 
 
 #### My Profiles:
