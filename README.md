@@ -19,6 +19,9 @@
 <a href="https://medium.com/@andrew.castro/swiftui-apples-new-tool-for-building-app-interfaces-8c5fc10b3e2b"> SwiftUI - Apple's new tool for building app interfaces</a>
 <br/>
 <a href="https://medium.com/@andrew.castro/struct-vs-class-swift-368c5d85cbed"> Struct vs Class - Swift</a>
+<br/>
+<a href="https://medium.com/@andrew.castro/memory-leak-e-retain-cycle-swift-911ec5e706f6"> Memory Leak e Retain Cycle - Swift</a>
+
 
 
 #### My Profiles:
